@@ -1,0 +1,66 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,300&display=swap');
+
+input
+{
+    background: grey
+}
+
+.book_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.book_mainDiv img
+{
+  width: 100%;
+  border-radius: 100px;
+}
+
+.book_mainDiv hr
+{
+    width: 230px; 
+}
+
+.book_mainDiv h5 , .book_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.book_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color:navy;
+    color: white;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.book_head i
+{
+float: right;
+}
+
+.book_text span
+{
+color: #ff7700;
+}
+
+.book_text div{
+  background-color: rgb(233, 233, 233);
+  height:fit-content;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+}
+#line1{
+  text-align: center;
+}
